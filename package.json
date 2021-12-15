@@ -1,0 +1,25 @@
+{
+  "name": "react-mizu",
+  "version": "0.0.1",
+  "description": "Fluid drop-in components for your next react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angrytoad/react-mizu.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "ui",
+    "reactjs"
+  ],
+  "author": "Tom Freeborough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angrytoad/react-mizu/issues"
+  },
+  "homepage": "https://github.com/angrytoad/react-mizu#readme"
+}
